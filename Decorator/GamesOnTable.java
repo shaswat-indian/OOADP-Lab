@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * 
  */
-public abstract class GamesOnTable extends OutdoorSportsDecorator {
+public abstract class GamesOnTable extends IndoorSportsDecorator {
 
     /**
      * Default constructor
